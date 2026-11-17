@@ -12,8 +12,6 @@ Senior DevOps Engineering Manager | Platform Engineering, SRE & Cloud 📍 Hyder
 ![](https://streak-stats.demolab.com/?user=lnageshwari08-sys&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lnageshwari08-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lnageshwari08-sys&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
