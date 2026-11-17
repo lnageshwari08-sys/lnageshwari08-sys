@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior DevOps Engineering Manager | Platform Engineering, SRE & Cloud 📍 Hyderabad, India<br><br>I have 15+ years of experience building and leading Platform Engineering, Cloud Infrastructure, DevSecOps and Site Reliability teams across India and the USA. I enjoy turning reliability, automation and cost into measurable results, and I stay hands-on with the tools my teams use.
+Senior DevOps Engineering Manager | GCC's Strategic Leadership, Platform Engineering, SRE & Cloud 📍 Hyderabad, India<br><br>I have 15+ years of experience building and leading Platform Engineering, GenAI, Cloud Infrastructure, DevSecOps and Site Reliability teams across India and the USA. I enjoy turning reliability, automation and cost into measurable results, and I stay hands-on with the tools my teams use.
 
 
 ## 🌐 Socials:
