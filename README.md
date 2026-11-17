@@ -1,4 +1,4 @@
-# lnageshwari08-gmail.com
+
 # Hi, I'm Laggoni Nageshwari 👋
 
 **Senior DevOps Engineering Manager | Platform Engineering, SRE & Cloud**
